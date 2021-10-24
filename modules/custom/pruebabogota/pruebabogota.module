@@ -1,0 +1,12 @@
+<?php
+/**
+ * Implementing hook_theme().
+ */
+    function pruebabogota($existing, $type, $theme, $path){
+        return array(
+            'artivle_list' => array(
+                'variables' => array('items'=>arra(), 'title'=>'')
+            )
+        )
+        ;
+    }

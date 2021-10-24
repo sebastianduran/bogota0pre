@@ -1,0 +1,4 @@
+name: PruebaBogota
+description: imprimir con twig utilizando el 90% del ancho
+type: module
+core: 8.x

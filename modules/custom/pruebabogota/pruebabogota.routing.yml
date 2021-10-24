@@ -1,0 +1,8 @@
+puebabogota.article_list:
+  path: '/pruebabogota/articles'
+  defaults: 
+    _controller: '\Drupal\pruebabogota\Controller\PruebaController::page'
+    _title: 'articulo propio'
+  requirements:
+    _permission: 'access content'
+  
